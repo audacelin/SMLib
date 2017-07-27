@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//src/com/smlib/net/KDHttpClient.java=UTF-8
+encoding//src/com/smlib/net/KDHttpRequest.java=UTF-8
+encoding//src/com/smlib/net/KDHttpRequest_old.java=UTF-8
+encoding//src/com/smlib/net/NetWork.java=UTF-8
+encoding//src/com/smlib/utils/AndroidUtils.java=UTF-8
+encoding//src/com/smlib/utils/DateUtil.java=UTF-8
+encoding//src/com/smlib/utils/DocsIntentUtils.java=UTF-8
+encoding//src/com/smlib/utils/LoadingDelegater.java=UTF-8
+encoding//src/com/smlib/utils/MD5.java=UTF-8
+encoding//src/com/smlib/utils/SerializeUtils.java=UTF-8
+encoding//src/com/smlib/utils/StringUtils.java=UTF-8
+encoding//src/com/smlib/utils/TimeUtils.java=UTF-8
